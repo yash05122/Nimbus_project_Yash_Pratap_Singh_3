@@ -2,7 +2,7 @@ Smart Inventory Billing System
 
 A console-based inventory management and billing application developed in C, designed to demonstrate core programming concepts like Structures, Pointers, Dynamic Memory Allocation, and Conditional Logic.
 
-Features
+## Features
 
 This system provides a full-cycle solution for inventory management, stock updates, and sales transactions:
 
